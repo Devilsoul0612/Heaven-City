@@ -1,0 +1,23 @@
+.back {
+    background-image: url(200684.jpg);
+    background-size: cover;
+    text-align: center;
+    background-attachment: fixed;
+}
+
+
+
+.word-heading {
+    font-family: cooper;
+    color: rgb(59, 179, 11);
+    font-size:1in;
+    margin-top: 0.5cm;
+}
+
+.word {
+    font-size: 0.6cm;
+    color: rgb(63, 255, 15);
+    text-align:justify;
+
+}
+
